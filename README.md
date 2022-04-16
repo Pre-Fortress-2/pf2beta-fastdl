@@ -10,7 +10,7 @@ Right click on the map > 7zip > add to archive > BZip2.
 ```
 sv_allowdownload 1 
 sv_allowupload 1
-sv_downloadurl "https://gitlab.com/dangreene0/pf2beta-fastdl/pf2beta"
+sv_downloadurl "https://gitlab.com/CryptoGibus/pf2beta-fastdl/pf2beta"
 ```
 
 ## Note for observers
