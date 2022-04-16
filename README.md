@@ -12,3 +12,6 @@ sv_allowdownload 1
 sv_allowupload 1
 sv_downloadurl "https://gitlab.com/dangreene0/pf2beta-fastdl/pf2beta"
 ```
+
+## Note for observers
+None of these maps are guaranteed to be added, we use this repo as a way for people to be able to download fun maps.
