@@ -1,3 +1,9 @@
+## SO VERY IMPORTANT PLEASE READ ME
+Maps **must** be uploaded as .bz2 files.
+Please download 7zip in order to compress them.
+Right click on the map, 7zip, add to archive, BZip2.
+THEN upload the map!
+
 *Made by Cyanide originally for use with TF2Classic*
 
 *Compatible with any Source Mod.*
