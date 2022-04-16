@@ -1,13 +1,12 @@
-*Made by Cyanide originally for use with TF2Classic
+*Made by Cyanide originally for use with TF2Classic*
 
-Compatible with any Source Mod.*
+*Compatible with any Source Mod.*
 
 ## Watch this video
 
 [![How to make a fastdl server](https://img.youtube.com/vi/CcismZ0uZ1A/0.jpg)](https://www.youtube.com/watch?v=CcismZ0uZ1A)
 
-
-## Code from the Video
+[*If you're using GitLab please follow this guide*](https://youtu.be/cERdbQ-GgOo)
 
 server.cfg
 ```
