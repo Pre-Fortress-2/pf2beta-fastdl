@@ -13,5 +13,18 @@ sv_allowupload 1
 sv_downloadurl "https://github.com/Pre-Fortress-2/pf2beta-fastdl/pf2beta"
 ```
 
-## Note for observers
+### Adding misc files.
+Make a `.res` that shares same name as your map.
+`ctf_coolestmap.res`
+
+Then individually add the files you would like to have the server download to the client. This can be anything from a `.mdl` your map uses or a particle `.txt`.
+The `.res` must use this format.
+```
+"Resources"
+{
+	"maps/ctf_coolestmap_particles.txt"	"file"
+        "maps/some_file.vtf"	"file"
+}
+```
+##Note for observers
 None of these maps are guaranteed to be added, we use this repo as a way for people to be able to download fun maps.
