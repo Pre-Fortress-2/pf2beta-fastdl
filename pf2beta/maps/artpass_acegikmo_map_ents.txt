@@ -1,0 +1,153 @@
+// replace template with your map name in the file name! example: ctf_2fort_map_ents.txt
+map_ents
+{
+		artpass_acegikmo // replace mapname with your map name!
+	{
+		// Stage 1
+		"item_armor"
+		{
+			"origin"	"-3872 2032 -656"
+			"angles"	"0 0 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"-2936 1528 -1008"
+			"angles"	"0 0 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"-4008 2160 -862"
+			"angles"	"0 0 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"-2656 2816 -1060"
+			"angles"	"0 0 0"
+		}
+
+		"prop_dynamic"
+		{
+			"model"		"models/props_mining/sign001.mdl" // Model file path.
+			"origin"	"-3464 2304 -676"	// Coordinates.
+			"angles"	"0 266 0" // Angles (Where the model is looking)
+			"solid"		"0"		// 1 for vphysics, 2 for bbox collisions.
+		}
+
+		"item_grenadepack"
+		{
+			"origin"	"-3464 2272 -654"
+			"angles"	"0 0 0"
+		}
+
+
+		"prop_dynamic"
+		{
+			"model"		"models/props_mining/sign001.mdl" // Model file path.
+			"origin"	"-2536 1720 -926"	// Coordinates.
+			"angles"	"0 356 0" // Angles (Where the model is looking)
+			"solid"		"0"		// 1 for vphysics, 2 for bbox collisions.
+		}
+
+		"item_grenadepack"
+		{
+			"origin"	"-2504 1720 -878"
+			"angles"	"0 0 0"
+		}
+
+
+		// Stage 2
+
+		"item_armor"
+		{
+			"origin"	"-766 3016 -752"
+			"angles"	"0 0 0"
+		}
+
+
+		"prop_dynamic"
+		{
+			"model"		"models/props_mining/sign001.mdl" // Model file path.
+			"origin"	"-2602 2832 -770"	// Coordinates.
+			"angles"	"0 180 0" // Angles (Where the model is looking)
+			"solid"		"0"		// 1 for vphysics, 2 for bbox collisions.
+		}
+
+		"item_grenadepack"
+		{
+			"origin"	"-2636 2832 -750"
+			"angles"	"0 0 0"
+		}
+
+		"prop_dynamic"
+		{
+			"model"		"models/props_mining/sign001.mdl" // Model file path.
+			"origin"	"-652 3777 -976"	// Coordinates.
+			"angles"	"0 270 0" // Angles (Where the model is looking)
+			"solid"		"0"		// 1 for vphysics, 2 for bbox collisions.
+		}
+
+		"item_grenadepack"
+		{
+			"origin"	"-657 3808 -904"
+			"angles"	"0 0 0"
+		}
+
+		"prop_dynamic"
+		{
+			"model"		"models/props_2fort/chicken.mdl" // Model file path.
+			"origin"	"-2247 3976 -987"	// Coordinates.
+			"angles"	"0 0 0" // Angles (Where the model is looking)
+			"solid"		"0"		// 1 for vphysics, 2 for bbox collisions.
+		}
+		// Stage 3
+
+		"item_armor"
+		{
+			"origin"	"-964 1544 -608"
+			"angles"	"0 0 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"368 1008 -1056"
+			"angles"	"0 0 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"-1232 1440 -944"
+			"angles"	"0 0 0"
+		}
+
+		"item_grenadepack"
+		{
+			"origin"	"-1084 -16 -740"
+			"angles"	"0 0 0"
+		}
+
+		"prop_dynamic"
+		{
+			"model"		"models/props_mining/sign001.mdl" // Model file path.
+			"origin"	"-1112 -40 -752"	// Coordinates.
+			"angles"	"0 45 0" // Angles (Where the model is looking)
+			"solid"		"0"		// 1 for vphysics, 2 for bbox collisions.
+		}
+
+		"item_grenadepack"
+		{
+			"origin"	"-1704 1888 -960"
+			"angles"	"0 0 0"
+		}
+
+		"prop_dynamic"
+		{
+			"model"		"models/props_mining/sign001.mdl" // Model file path.
+			"origin"	"-1720 1904 -960"	// Coordinates.
+			"angles"	"0 315 0" // Angles (Where the model is looking)
+			"solid"		"0"		// 1 for vphysics, 2 for bbox collisions.
+		}
+	}
+}
