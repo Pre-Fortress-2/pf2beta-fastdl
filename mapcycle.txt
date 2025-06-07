@@ -16,6 +16,7 @@ plr_chariots
 tc_hydro
 koth_badlandskoth_zythesnow_a10
 hunted_bibl_accurate_a6
+pl_strider_v3
 infection_template
 pl_goldwater_a3
 ad_storm
