@@ -20,6 +20,7 @@ ad_diybowl2
 ad_gorge
 ad_gorge_rc1
 ad_haarp
+ad_sandbowl_test
 ad_signal_a1
 ad_signal_a2
 ad_solbasrj
