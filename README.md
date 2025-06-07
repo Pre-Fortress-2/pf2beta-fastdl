@@ -22,6 +22,6 @@ The `.res` must use this format.
 "Resources"
 {
 	"maps/ctf_coolestmap_particles.txt"	"file"
-    "maps/some_file.vtf"	"file"
+        "maps/some_file.vtf"	"file"
 }
 ```
