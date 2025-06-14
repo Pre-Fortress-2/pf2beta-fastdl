@@ -5,8 +5,9 @@ from os import listdir, path
 def main():
     extension = ".bsp.bz2"
     dir = "maps" 
+    server_name = "fdl"
     try:
-        with open("cfg/mapcycle.txt", "w") as mapcycle, open("cfg/motd.txt", "w") as motd:
+        with open("cfg/{server_name}_mapcycle.txt", "w") as mapcycle, open("cfg/motd.txt", "w") as motd:
             motd.write("Map List:\n\n")
             if path.isfile("default_mapcycle.txt"):
                 with open("default_mapcycle.txt") as default_maps:
