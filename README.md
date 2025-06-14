@@ -9,7 +9,7 @@ Right click on the map > 7zip > add to archive > BZip2.
 ### Add this in your server.cfg
 ```
 sv_allowdownload 1 
-sv_downloadurl "https://pre-fortress-2.github.io/pf2beta-fastdl/pf2beta"
+sv_downloadurl "https://pre-fortress-2.github.io/pf2beta-fastdl"
 ```
 
 ### Adding misc files.
