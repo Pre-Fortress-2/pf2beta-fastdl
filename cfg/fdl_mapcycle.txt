@@ -16,7 +16,8 @@ plr_chariots
 tc_hydro
 koth_badlands
 dom_canalzone
-ctf_cloisterkoth_zythesnow_a10
+ctf_cloister
+koth_zythesnow_a10
 hunted_bibl_accurate_a6
 pl_strider_v3
 infection_template
