@@ -1,6 +1,7 @@
 #!/bin/bash
 
 git pull
+git clean -df
 git checkout .
 
 cd maps
