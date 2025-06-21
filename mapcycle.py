@@ -7,7 +7,7 @@ def main():
     dir = "maps" 
     server_name = "fdl"
     try:
-        with open("cfg/{server_name}_mapcycle.txt", "w") as mapcycle, open("cfg/{server_name}_motd.txt", "w") as motd:
+        with open(f"cfg/{server_name}_mapcycle.txt", "w") as mapcycle, open(f"cfg/{server_name}_motd.txt", "w") as motd:
             motd.write("Map List:\n\n")
             if path.isfile("default_mapcycle.txt"):
                 with open("default_mapcycle.txt") as default_maps:

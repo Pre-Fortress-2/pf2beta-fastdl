@@ -15,3 +15,5 @@ pl_goldrush
 plr_chariots
 tc_hydro
 koth_badlands
+dom_canalzone
+ctf_cloister

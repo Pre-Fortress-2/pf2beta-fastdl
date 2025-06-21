@@ -8,9 +8,7 @@ infection_template
 pl_goldwater_a3
 ad_storm
 ctf_two2forts
-ctf_cloister
 heliee
-dom_canalzone
 ctf_badlands_ca
 testmap
 arena_betteryard_rc1
