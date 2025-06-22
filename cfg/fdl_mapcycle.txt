@@ -58,6 +58,7 @@ hunted_bibl_accurate_a6
 infection_template
 inv_stadium_mirrorred
 irj_bananazone
+jug_juggernaut_junction_a1
 koth_harvest_event_test
 koth_rooftop_reborn_4
 koth_viaduct
