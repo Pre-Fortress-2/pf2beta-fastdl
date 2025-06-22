@@ -1,10 +1,22 @@
 ## SO VERY IMPORTANT PLEASE READ ME
-Maps **must** be uploaded as `.bz2` files.
+
+AFTER YOU FINISH YOUR CHANGES AND BEFORE COMMITTING AND PUSHING CHANGES,
+
+RUN `mapcycle.py` TO UPDATE `mapcycle.txt` AND `motd.txt`
+
+### Add `.bz2` file of map
+Maps **must** be uploaded as .bz2 files.
 - Please download 7zip in order to compress them.
 
 Right click on the map > 7zip > add to archive > BZip2.
 
 - THEN upload the map!
+
+## Included Scripts
+This repo includes
+- Mass `.bz2` maker
+- Updates maps in rotation
+- Updates mapcycle and maplist
 
 ### Add this in your server.cfg
 ```
@@ -22,6 +34,7 @@ The `.res` must use this format.
 "Resources"
 {
 	"maps/ctf_coolestmap_particles.txt"	"file"
-        "maps/some_file.vtf"	"file"
+        "materials/some_file.vtf"	"file"
+	"models/balls_heavy.mdl"	"file"
 }
 ```
