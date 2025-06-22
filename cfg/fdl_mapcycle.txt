@@ -44,6 +44,7 @@ ctf_2fort_submerged
 ctf_badlands_2006
 ctf_badlands_ca
 ctf_range
+ctf_simplestupid
 ctf_two2forts
 ctf_undermines_final
 diy_canal
