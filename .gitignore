@@ -1,2 +1,5 @@
 *.bsp
 .DS_Store
+*.7z
+*.zip
+*.rar
