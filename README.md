@@ -19,6 +19,7 @@ You can *add* or *remove* a default map from rotation by editing the `default_ma
 
 ## Manually creating `.bz2` files	
 [*Please download 7-Zip*](https://www.7-zip.org/download.html)
+
 Maps **MUST** be converted to `.bz2` files:
 - Right click on the `.bsp` file
 - Click `7zip`
@@ -42,7 +43,7 @@ Maps **MUST** be converted to `.bz2` files:
 
 ## Adding `pf2beta-fastdl` to your server
 - Add to your `cfg/server.cfg`:
-```json
+```bash
 sv_allowdownload 1 
 sv_downloadurl "https://pre-fortress-2.github.io/pf2beta-fastdl"
 ```
@@ -57,7 +58,7 @@ Make a `.res` that shares same name as your map.
 - Example: `ctf_coolestmap.res`
 
 List the files in your `.res` file:
-```json
+```bash
 "Resources"
 {
 	"maps/ctf_coolestmap_particles.txt"	"file"
