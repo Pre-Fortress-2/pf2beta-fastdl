@@ -15,5 +15,6 @@ pl_goldrush
 plr_chariots
 tc_hydro
 koth_badlands
+ctf_2fort_event
 dom_canalzone
 ctf_cloister

@@ -8,7 +8,6 @@ cp_granary
 cp_staredown
 cp_well
 ctf_2fort
-ctf_2fort_event
 ctf_badlands
 ctf_well
 koth_crossover
@@ -16,6 +15,7 @@ pl_goldrush
 plr_chariots
 tc_hydro
 koth_badlands
+ctf_2fort_event
 dom_canalzone
 ctf_cloister
 ad_dariobowl2
@@ -67,7 +67,6 @@ koth_zythesnow_a10
 mge_training_v8_beta4b
 pf2_redlaststand_v71_norm
 pf_street_rc4
-pl_goldrush_butitcrashes
 pl_goldwater_a
 pl_goldwater_a3
 pl_strider_v3

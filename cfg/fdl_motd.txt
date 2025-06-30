@@ -50,7 +50,6 @@ koth_zythesnow_a10
 mge_training_v8_beta4b
 pf2_redlaststand_v71_norm
 pf_street_rc4
-pl_goldrush_butitcrashes
 pl_goldwater_a
 pl_goldwater_a3
 pl_strider_v3
