@@ -19,7 +19,6 @@ arena_trainyard_02
 artpass_acegikmo
 cp_badlands_2007_layout
 cp_bridge
-cp_canalzone
 cp_dashcon_dash
 cp_genesispf2
 cp_redbounty
@@ -32,6 +31,7 @@ ctf_simplestupid
 ctf_two2forts
 ctf_undermines_final
 diy_canal
+dom_cz1_pf2_v1
 dom_sorrow_a2
 eleventh_b1
 es_cave3
