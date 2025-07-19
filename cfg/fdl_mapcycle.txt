@@ -48,7 +48,7 @@ ctf_simplestupid
 ctf_two2forts
 ctf_undermines_final
 diy_canal
-dom_cz1_pf2_v1
+dom_cz1_pf2_v2
 dom_sorrow_a2
 eleventh_b1
 es_cave3
