@@ -1,5 +1,15 @@
 "Resources"
 {
+	"models\props_gameplay\sign_gameplay01gray.dx80.vtx"	"file"
+	"models\props_gameplay\sign_gameplay01gray.dx90.vtx"	"file"
+	"models\props_gameplay\sign_gameplay01gray.mdl"	"file"
+	"models\props_gameplay\sign_gameplay01gray.phy"	"file"
+	"models\props_gameplay\sign_gameplay01gray.sw.vtx"	"file"
+	"models\props_gameplay\sign_gameplay01gray.vvd"	"file"
+
+	"materials\models\props_gameplay\sign_gameplay01_cpgray.vmt"	"file"
+	"materials\models\props_gameplay\sign_gameplay01_cpgray.vtf"	"file"
+
 	"materials\sprites\obj_icons\icon_obj_1bw_blu.vmt"	"file"
 	"materials\sprites\obj_icons\icon_obj_1bw_blu_locked.vmt"	"file"
 	"materials\sprites\obj_icons\icon_obj_1bw_red.vmt"	"file"
