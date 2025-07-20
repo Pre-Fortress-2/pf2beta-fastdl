@@ -22,6 +22,7 @@ cp_bridge
 cp_dashcon_dash
 cp_genesispf2
 cp_redbounty
+cp_steel_b
 cp_storm
 ctf_2fort_submerged
 ctf_badlands_2006
@@ -31,6 +32,7 @@ ctf_simplestupid
 ctf_two2forts
 ctf_undermines_final
 diy_canal
+dom_cz1_pf2_v1
 dom_cz1_pf2_v2
 dom_sorrow_a2
 eleventh_b1
@@ -40,7 +42,6 @@ heliee
 hunted
 hunted_bibl_accurate_a6
 infection_template
-inv_stadium_mirrorred
 irj_bananazone
 jug_juggernaut_junction_a1
 koth_harvest_event_test
