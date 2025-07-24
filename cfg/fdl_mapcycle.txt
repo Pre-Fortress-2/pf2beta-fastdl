@@ -18,6 +18,7 @@ koth_badlands
 ctf_2fort_event
 dom_canalzone
 ctf_cloister
+ad_avanti_jb3_a1
 ad_dariobowl2
 ad_degrootkeep_v4
 ad_diybowl2
