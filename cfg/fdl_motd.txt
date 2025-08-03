@@ -1,7 +1,6 @@
 Map List:
 
 - Includes stock maps
-ad_avanti_jb3_a2
 ad_dariobowl2
 ad_degrootkeep_v4
 ad_diybowl2
