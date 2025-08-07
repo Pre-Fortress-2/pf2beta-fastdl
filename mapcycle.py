@@ -5,7 +5,7 @@ from os import listdir, path
 def main():
     extension = ".bsp.bz2"
     dir = "maps" 
-    server_name = "fdl"
+    server_name = "bfdl"
     try:
         with open(f"cfg/{server_name}_mapcycle.txt", "w") as mapcycle, open(f"cfg/{server_name}_motd.txt", "w") as motd:
             motd.write("Map List:\n\n")
